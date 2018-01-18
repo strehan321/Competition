@@ -1,4 +1,4 @@
-setwd("D:/UTD/Competitions/TI/Slides")
+setwd("C:/Study/Competitions/TI")
 rm(list=ls(all=TRUE))
 
 library(data.table)
